@@ -1,6 +1,6 @@
 # Image Processing with Streamlit
 
-This Streamlit application allows users to capture an image using their webcam and apply various image processing techniques, including:
+This Streamlit application allows users to capture an image using their webcam or upload image and apply various image processing techniques, including:
 
 - Grayscale Conversion
 - Gaussian Blur
